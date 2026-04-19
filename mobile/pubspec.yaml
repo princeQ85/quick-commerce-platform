@@ -1,0 +1,14 @@
+name: quick_commerce_platform
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.14.0
+  provider: ^6.0.0
+  google_maps_flutter: ^2.0.6
+  stripe_flutter: ^6.0.0
+  razorpay_flutter: ^2.0.3
+  # add other required packages here
+
+flutter:
+  uses-material-design: true
